@@ -4,9 +4,9 @@ Robot model, chassis driver, and arm firmware resources for RobiDuo.
 
 ## Robot description
 
-[Download the existing URDF archive](RobiDuo_ros2.zip).
+[Download the RobiDuo URDF archive](RobiDuo_ros2.zip).
 
-The supplied robot-description archive is retained unchanged.
+`RobiDuo_ros2.zip` is the URDF robot-description archive for RobiDuo. The original archive is provided unchanged.
 
 ## Chassis driver
 
